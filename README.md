@@ -24,5 +24,4 @@ git merge --no-ff release/1.0.0
 # tag the master branch with the release version number
 git tag -a 1.0.0 -m "Release 1.0.0"
 
-# deploy the tagged release to production
-# ...
+
